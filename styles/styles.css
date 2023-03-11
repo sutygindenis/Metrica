@@ -29,7 +29,7 @@ h1 {
     height: 500px;
     width: 1150px;
 
-    background-image: url('/resources/mainview_chair.png');
+    background-image: url('../resources/mainview_chair.png');
     background-size: contain;
     background-repeat: no-repeat;
 
