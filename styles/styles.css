@@ -144,27 +144,29 @@ nav {
 }
 
 .btn {
-    font-family: 'Manrope', sans-serif;
     display: block;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
     font-size: 20px;
     width: 255px;
     height: 67px;
-    text-align:center;
     line-height: 27px;
     letter-spacing: -0.03em;
+    text-align:center;
     border-radius: 5px;
     border-width: 1px;
+    border: 1px solid #AD1818 ;
     border-color: #AD1818;
-    color: white;
+    color: #AD1818;
     cursor: pointer;
-    background-color: #AD1818;
+    background-color: white;
 
 }
 
 .btn:hover {
-    color: #AD1818;
-    background-color: white;
-    font-weight: 1000;
+    color: white;
+    background-color: #AD1818;
+    border-color: #AD1818;
 }
 
 .projects_container {
